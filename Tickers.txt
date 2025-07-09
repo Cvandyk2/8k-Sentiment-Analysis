@@ -1,0 +1,5 @@
+AMZN
+GOOGL
+XOM
+WMT
+#add more as needed
